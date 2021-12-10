@@ -1,8 +1,9 @@
-Server: sql4.freemysqlhosting.net
-Name: sql4455968
-Username: sql4455968
-Password: zyAGaM9PYx
+Server: us-cdbr-east-05.cleardb.net
+Name: heroku_d47788496bf122c
+Username: b827d817e0a819
+Password: b5f9a2e6
 Port number: 3306
+
 
 
 //command to execute deno 
